@@ -1,0 +1,15 @@
+{
+  "spider": "./souju_spider.jar;md5;23585ffadf120af9b31c90f12d45125d",
+  "sites": [
+    {
+      "key": "souju",
+      "name": "搜剧AI",
+      "type": 3,
+      "api": "csp_SouJu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    }
+  ]
+}

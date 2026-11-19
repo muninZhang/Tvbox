@@ -1,5 +1,5 @@
 {
-  "spider": "./souju_spider.jar;md5;23585ffadf120af9b31c90f12d45125d",
+  "spider": "https://raw.githubusercontent.com/muninZhang/Tvbox/refs/heads/main/souju_spider.jar",
   "sites": [
     {
       "key": "souju",

@@ -1,0 +1,62 @@
+央视,#genre#
+CCTV-1 综合,https://8080-agqxmx2vxrekc4op3mzvjdqvha.instabox.tech/cctv1.m3u8
+CCTV-2 财经,https://8080-agqxmx2vxrekc4op3mzvjdqvha.instabox.tech/cctv2.m3u8
+CCTV-3 综艺,https://8080-agqxmx2vxrekc4op3mzvjdqvha.instabox.tech/cctv3.m3u8
+CCTV-4 中文国际,https://8080-agqxmx2vxrekc4op3mzvjdqvha.instabox.tech/cctv4.m3u8
+CCTV-5 体育,https://8080-agqxmx2vxrekc4op3mzvjdqvha.instabox.tech/cctv5.m3u8
+CCTV-6 电影,https://8080-agqxmx2vxrekc4op3mzvjdqvha.instabox.tech/cctv6.m3u8
+CCTV-7 国防军事,https://8080-agqxmx2vxrekc4op3mzvjdqvha.instabox.tech/cctv7.m3u8
+CCTV-8 电视剧,https://8080-agqxmx2vxrekc4op3mzvjdqvha.instabox.tech/cctv8.m3u8
+CCTV-9 纪录,https://8080-agqxmx2vxrekc4op3mzvjdqvha.instabox.tech/cctv9.m3u8
+CCTV-10 科教,https://8080-agqxmx2vxrekc4op3mzvjdqvha.instabox.tech/cctv10.m3u8
+CCTV-11 戏曲,https://8080-agqxmx2vxrekc4op3mzvjdqvha.instabox.tech/cctv11.m3u8
+CCTV-13 新闻,https://8080-agqxmx2vxrekc4op3mzvjdqvha.instabox.tech/cctv13.m3u8
+CCTV-14 少儿,https://8080-agqxmx2vxrekc4op3mzvjdqvha.instabox.tech/cctv14.m3u8
+CCTV-15 音乐,https://8080-agqxmx2vxrekc4op3mzvjdqvha.instabox.tech/cctv15.m3u8
+CCTV-16 4K,https://8080-agqxmx2vxrekc4op3mzvjdqvha.instabox.tech/cctv164k.m3u8
+CCTV-17 农业农村,https://8080-agqxmx2vxrekc4op3mzvjdqvha.instabox.tech/cctv17.m3u8
+CCTV-4K 超高清,https://8080-agqxmx2vxrekc4op3mzvjdqvha.instabox.tech/cctv4k.m3u8
+CCTV-8K 超高清,https://8080-agqxmx2vxrekc4op3mzvjdqvha.instabox.tech/cctv8k.m3u8
+CGTN,https://8080-agqxmx2vxrekc4op3mzvjdqvha.instabox.tech/cgtn.m3u8
+CGTN 法语,https://8080-agqxmx2vxrekc4op3mzvjdqvha.instabox.tech/cgtnfr.m3u8
+CGTN 俄语,https://8080-agqxmx2vxrekc4op3mzvjdqvha.instabox.tech/cgtnru.m3u8
+CGTN 阿拉伯语,https://8080-agqxmx2vxrekc4op3mzvjdqvha.instabox.tech/cgtnar.m3u8
+CGTN 西班牙语,https://8080-agqxmx2vxrekc4op3mzvjdqvha.instabox.tech/cgtnes.m3u8
+CGTN 纪录,https://8080-agqxmx2vxrekc4op3mzvjdqvha.instabox.tech/cgtndoc.m3u8
+CCTV 风云剧场,https://8080-agqxmx2vxrekc4op3mzvjdqvha.instabox.tech/cctvfyjc.m3u8
+CCTV 第一剧场,https://8080-agqxmx2vxrekc4op3mzvjdqvha.instabox.tech/cctvdyjc.m3u8
+CCTV 怀旧剧场,https://8080-agqxmx2vxrekc4op3mzvjdqvha.instabox.tech/cctvhjjc.m3u8
+卫视,#genre#
+北京卫视,https://8080-agqxmx2vxrekc4op3mzvjdqvha.instabox.tech/bjws.m3u8
+江苏卫视,https://8080-agqxmx2vxrekc4op3mzvjdqvha.instabox.tech/jsws.m3u8
+东方卫视,https://8080-agqxmx2vxrekc4op3mzvjdqvha.instabox.tech/dfws.m3u8
+浙江卫视,https://8080-agqxmx2vxrekc4op3mzvjdqvha.instabox.tech/zjws.m3u8
+湖南卫视,https://8080-agqxmx2vxrekc4op3mzvjdqvha.instabox.tech/hnws.m3u8
+湖北卫视,https://8080-agqxmx2vxrekc4op3mzvjdqvha.instabox.tech/hbws.m3u8
+广东卫视,https://8080-agqxmx2vxrekc4op3mzvjdqvha.instabox.tech/gdws.m3u8
+广西卫视,https://8080-agqxmx2vxrekc4op3mzvjdqvha.instabox.tech/gxws.m3u8
+黑龙江卫视,https://8080-agqxmx2vxrekc4op3mzvjdqvha.instabox.tech/hljws.m3u8
+海南卫视,https://8080-agqxmx2vxrekc4op3mzvjdqvha.instabox.tech/hainanws.m3u8
+重庆卫视,https://8080-agqxmx2vxrekc4op3mzvjdqvha.instabox.tech/cqws.m3u8
+深圳卫视,https://8080-agqxmx2vxrekc4op3mzvjdqvha.instabox.tech/szws.m3u8
+四川卫视,https://8080-agqxmx2vxrekc4op3mzvjdqvha.instabox.tech/scws.m3u8
+河南卫视,https://8080-agqxmx2vxrekc4op3mzvjdqvha.instabox.tech/henanws.m3u8
+东南卫视,https://8080-agqxmx2vxrekc4op3mzvjdqvha.instabox.tech/dnws.m3u8
+贵州卫视,https://8080-agqxmx2vxrekc4op3mzvjdqvha.instabox.tech/gzws.m3u8
+江西卫视,https://8080-agqxmx2vxrekc4op3mzvjdqvha.instabox.tech/jxws.m3u8
+辽宁卫视,https://8080-agqxmx2vxrekc4op3mzvjdqvha.instabox.tech/lnws.m3u8
+安徽卫视,https://8080-agqxmx2vxrekc4op3mzvjdqvha.instabox.tech/ahws.m3u8
+河北卫视,https://8080-agqxmx2vxrekc4op3mzvjdqvha.instabox.tech/hebws.m3u8
+山东卫视,https://8080-agqxmx2vxrekc4op3mzvjdqvha.instabox.tech/sdws.m3u8
+天津卫视,https://8080-agqxmx2vxrekc4op3mzvjdqvha.instabox.tech/tjws.m3u8
+吉林卫视,https://8080-agqxmx2vxrekc4op3mzvjdqvha.instabox.tech/jlws.m3u8
+陕西卫视,https://8080-agqxmx2vxrekc4op3mzvjdqvha.instabox.tech/saxws.m3u8
+宁夏卫视,https://8080-agqxmx2vxrekc4op3mzvjdqvha.instabox.tech/nxws.m3u8
+内蒙古卫视,https://8080-agqxmx2vxrekc4op3mzvjdqvha.instabox.tech/nmgws.m3u8
+云南卫视,https://8080-agqxmx2vxrekc4op3mzvjdqvha.instabox.tech/ynws.m3u8
+山西卫视,https://8080-agqxmx2vxrekc4op3mzvjdqvha.instabox.tech/shanxiws.m3u8
+甘肃卫视,https://8080-agqxmx2vxrekc4op3mzvjdqvha.instabox.tech/gsws.m3u8
+青海卫视,https://8080-agqxmx2vxrekc4op3mzvjdqvha.instabox.tech/qhws.m3u8
+西藏卫视,https://8080-agqxmx2vxrekc4op3mzvjdqvha.instabox.tech/xizangws.m3u8
+CETV-1,https://8080-agqxmx2vxrekc4op3mzvjdqvha.instabox.tech/cetv1.m3u8
+国学频道,https://8080-agqxmx2vxrekc4op3mzvjdqvha.instabox.tech/guoxue.m3u8

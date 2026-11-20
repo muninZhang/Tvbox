@@ -14,7 +14,12 @@
   ],
   "lives": [
     {
-      "name": "直播-央视卫视",
+      "name": "直播-央视卫视txt",
+      "type": 0,
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/muninZhang/Tvbox/main/live_cctv_ws.txt"
+    },
+    {
+      "name": "直播-央视卫视m3u",
       "type": 0,
       "url": "https://8080-agqxmx2vxrekc4op3mzvjdqvha.instabox.tech/all.m3u"
     }

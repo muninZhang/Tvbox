@@ -11,5 +11,22 @@
       "filterable": 1,
       "ext": ""
     }
+  ],
+  "lives": [
+    {
+      "name": "直播-我的电视",
+      "type": 0,
+      "url": "https://tv.mybacc.com/tv/"
+    },
+    {
+      "name": "直播-iptvs",
+      "type": 0,
+      "url": "https://iptvs.mybacc.com/api/export/m3u"
+    },
+    {
+      "name": "直播-ipv6备用",
+      "type": 0,
+      "url": "https://live.fanmingming.cn/tv/m3u/ipv6.m3u"
+    }
   ]
 }
